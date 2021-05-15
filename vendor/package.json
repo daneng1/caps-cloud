@@ -14,6 +14,7 @@
     "dotenv": "^9.0.0",
     "faker": "^5.5.3",
     "socket.io-client": "^4.0.1",
+    "sqs-consumer": "^5.5.0",
     "sqs-producer": "^2.1.0"
   }
 }
